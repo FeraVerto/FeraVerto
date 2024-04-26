@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/FeraVerto/menu-and-groceries">my pet project</a>
 - 🌱 I’m currently learning React and typescript
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/maria-klevakina/">LinkedIn</a>
-- ⚡ Fun fact: it's not me on the picture
+- ⚡ Fun fact: it's not me on the gif
 
 ## Language & Tools
 
