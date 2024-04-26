@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi! I'm Mariya Klevakina 
+### I ❤️ Frontend
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-klevakina/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mariya.klevakina.ekb@gmail.com)
+[![Portfolio](https://img.shields.io/badge/my-portfolio-0c8516)](feraverto.github.io/portfolio/)
+
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBvcWRyOHphdWZyaXdvYmowM2JudWVnOTRidDVycTA3Y3YzdTBscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" />
+
 
 <!--
 **FeraVerto/FeraVerto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
