@@ -5,7 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-klevakina/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mariya.klevakina.ekb@gmail.com)
-[![Portfolio](https://img.shields.io/badge/my-portfolio-0c8516)](feraverto.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/my-portfolio-0c8516)](https://feraverto.github.io/portfolio/)
 
 
 
