@@ -1,4 +1,4 @@
-# Hi! I'm Mariya Klevakina 
+# Hi! I'm Masha
 ### I ❤️ Frontend
 
 <img align="right" middle="top" width="230" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBvcWRyOHphdWZyaXdvYmowM2JudWVnOTRidDVycTA3Y3YzdTBscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" />
